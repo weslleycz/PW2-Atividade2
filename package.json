@@ -1,0 +1,13 @@
+{
+  "name": "atv-aula05",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "dependencies": {
+    "tsx": "^3.12.6",
+    "typescript": "^5.0.2"
+  }
+}
